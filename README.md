@@ -15,7 +15,8 @@ The server has to display the string pretty quickly. Quickly means that if you t
 Your server should be able to receive strings from several clients in a row without needing to restart.
 The communication between your client and your server has to be done only using UNIX signals.
 You can only use these two signals: SIGUSR1 and SIGUSR2.
-
+The server acknowledges every message received by sending back a signal to the client.
+Unicode characters support.
 
 ## Status
 
