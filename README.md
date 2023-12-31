@@ -1,7 +1,7 @@
 # Minitalk
 
 <p align="center">
-  <img src="https://https://github.com/AndersLazis/AndersLazis/blob/main/assets/covers/cover-minitalk-bonus.png" alt="Minitalk 42 project badge"/>
+  <img src="https://github.com/AndersLazis/AndersLazis/blob/main/assets/covers/cover-minitalk-bonus.png" alt="Minitalk 42 project badge"/>
 </p>
 
 ## Status
